@@ -27,7 +27,7 @@ oriented_set
 <- rrel_key_sc_element: 
 	...
 	(*
-	<-sc_illustration;;
+	<-illustration;;
 	<=nrel_sc_text_translation:
 		...
 		(*

@@ -630,7 +630,7 @@ nrel_alpha_incision
 <- rrel_key_sc_element: 
 	.Illustration_of_alpha_incision
 	(*
-	<- sc_illustration;;
+	<- illustration;;
 	=> nrel_main_idtf:
 		[Иллюстрация к понятию "альфа-разрез*"]
 			(* <- lang_ru;; *);;
@@ -867,7 +867,7 @@ nrel_diagonal
 <- rrel_key_sc_element: 
 	...
 	(*
-	<- sc_illustration;;
+	<- illustration;;
 	<= nrel_sc_text_translation:
 		...
 		(*
@@ -1312,7 +1312,7 @@ nrel_fuzzy_set_core
 <- rrel_key_sc_element: 
 	.Illustration_of_nrel_fuzzy_set_core
 	(*
-	<- sc_illustration;;
+	<- illustration;;
 	=> nrel_main_idtf:
 		[Иллюстрация к понятию "ядро нечеткого множества*"]
 			(* <- lang_ru;;	*);;
@@ -1619,7 +1619,7 @@ nrel_near_set
 <- rrel_key_sc_element: 
 	.Illustration_of_nrel_near_set
 	(*
-	<- sc_illustration;;
+	<- illustration;;
 	=> nrel_main_idtf:
 		[Иллюстрация к понятию "ближайшее множество*"]
 			(* <- lang_ru;; *);;
@@ -2681,7 +2681,7 @@ transversal
 <- rrel_key_sc_element:
  ...
 	(*
-	<-sc_illustration;;
+	<-illustration;;
 	<=nrel_sc_text_translation:
 		example_transversal
 		(* 
